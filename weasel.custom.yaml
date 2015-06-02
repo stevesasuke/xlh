@@ -1,0 +1,13 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon May 18 15:32:10 2015"
+  rime_version: 1.1.2
+patch:
+  "style/color_scheme": starcraft_ii
+  "style/horizontal": true                  # 水平显示
+  "style/display_tray_icon": true           # 显示托盘图标
+  "style/horizontal": true                  # 横竖排
+  "style/font_face": "Microsoft YaHei Mono" # 微软雅黑
+  "style/font_point": 16                    # 字号16

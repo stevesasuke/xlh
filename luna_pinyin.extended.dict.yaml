@@ -1,0 +1,23 @@
+# Rime dictionary
+---
+name: luna_pinyin.extended
+version: "2013.04.22"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+- luna_pinyin
+...
+# table begins
+# 用户名...
+stevesasuke	st	1000
+
+# 邮箱
+stevesasuke@gmail.com	gm	1000
+136147210@qq.com	qm	1000
+2747745470@qq.com	qm	1000
+
+# 颜文字
+┴┴︵╰（‵□′）╯︵┴┴	yxz	100
+⊙_⊙	ysm	100
+╮(╯▽╰)╭	ywn	100
+~\(≧▽≦)/~	ykx	100
