@@ -8,8 +8,32 @@ import_tables:
 - luna_pinyin
 ...
 # table begins
-# 用户名...
+# 用户名 & 日常...
 stevesasuke	st	1000
+是	s	1000
+你	n	1000
+在	z	1000
+我	w	1000
+的	d	1000
+
+# lol
+控线	kx	1000
+推线	tx	1000
+对线	dx	1000
+来中推	lzt	1000
+来推上	lts	1000
+来推下	ltx	1000
+打小龙	dxl	1000
+打大龙	ddl	1000
+瑞兹	rz	1000
+德莱文	dlw	1000
+魔抗	mk	1000
+塔下	tax	1000
+装备	zb	1000
+破甲弓	pjg	1000
+红叉	hox	1000
+黄叉	hux	1000
+/all	all	1000
 
 # 邮箱
 stevesasuke@gmail.com	gm	1000
@@ -26,3 +50,5 @@ stevesasuke@gmail.com	gm	1000
 →_→	yxs	100
 =￣ω￣=	ymm	100
 (づ ●─● )づ	ydb	100
+(´・ω・｀)	yss	100
+
